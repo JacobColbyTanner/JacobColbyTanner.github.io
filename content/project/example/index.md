@@ -1,26 +1,26 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Functional connectivity modules in recurrent neural networks: function, origin, and dynamics
+summary: An in-depth analysis of functional connectivity modules in RNNs
 tags:
-  - Deep Learning
+  - Computational Neuroscience
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://arxiv.org/abs/2310.20601'
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+#links:
+ #- icon: twitter
+ #   icon_pack: fab
+ #   name: Follow
+ #   url: https://twitter.com/georgecushen
+#url_code: ''
+#url_pdf: ''
+#url_slides: ''
+#url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
