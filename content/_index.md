@@ -74,7 +74,7 @@ sections:
   
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -95,7 +95,6 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: jctanner@iu.edu
       phone: (951) 526-4686
-      appointment_url: 'https://calendly.com'
       address:
         street: 1101 E 10th St
         city: Bloomington

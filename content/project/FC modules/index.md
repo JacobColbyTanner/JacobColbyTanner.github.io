@@ -10,5 +10,5 @@ external_link: 'https://arxiv.org/abs/2310.20601'
 
 image:
   caption: Phase space animation from the paper
-  
+slides: FC modules
 ---
