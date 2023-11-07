@@ -6,7 +6,7 @@ tags:
 date: '2023'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://arxiv.org/abs/2310.20601'
+#external_link: 'https://arxiv.org/abs/2310.20601'
 
 image:
   caption: Phase space animation from the paper
