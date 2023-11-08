@@ -1,5 +1,5 @@
 ---
-title: Functional connectivity modules in recurrent neural networks:function, origin, and dynamics
+title: Functional connectivity modules in recurrent neural networks - function, origin, and dynamics
 summary: An in-depth analysis of functional connectivity modules in RNNs
 tags:
   - Computational Neuroscience
