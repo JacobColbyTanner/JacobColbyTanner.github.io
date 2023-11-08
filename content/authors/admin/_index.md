@@ -122,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Jacob C. Tanner is a graduate student in Complex Systems and Cognitive Science at Indiana University working in the Brain Networks & Behavior lab with Dr. Richard Betzel. His research interest include brain development, brain dynamics and brain function. Currently he primarily uses the tools of dynamical systems theory and network science to probe the function of recurrent neural networks and tests the insights generated here on neuroimaging and behavioral data.
+Jacob C. Tanner is a graduate student in Complex Systems and Cognitive Science at Indiana University working in the Brain Networks & Behavior lab with Dr. Richard Betzel. His research interest include brain development, brain dynamics and brain function. Currently his work focuses on using concepts from dynamical systems theory and network science to understand the function of recurrent neural networks and testing the insights generated here on neuroimaging and behavioral data.
 {style="text-align: justify;"}
