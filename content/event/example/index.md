@@ -2,6 +2,7 @@
 title: Functional connectivity modules in recurrent neural networks:function, origin and dynamics
 
 event: Invited talk, Rutgers University
+event_url:
 
 location: Rutgers (zoom talk)
 address:
@@ -16,9 +17,12 @@ abstract: Understanding the ubiquitous phenomenon of neural synchronization acro
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '11-27-2023'
+date: '2023-11-27T13:00:00Z'
+date_end: '2023-11-27T15:00:00Z'
 all_day: false
 
+# Schedule page publish date (NOT talk date).
+publishDate: '2023-11-27T15:00:00Z'
 
 
 authors: []
@@ -27,12 +31,15 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
+image:
+  caption: 'Example slide'
+  focal_point: Right
 
-#links:
- # - icon: twitter
- #   icon_pack: fab
- #   name: Follow
-  #  url: https://twitter.com/georgecushen
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/jacobctanner1
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -53,4 +60,16 @@ url_video: ''
 projects:
   - RNN modules
 ---
+
+{{% callout note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /callout %}}
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
 
